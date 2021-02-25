@@ -16,7 +16,7 @@ Store your key
 REACT_APP_API_KEY=your-key-here-not-thesewords
 `
 
-Change to src/
+Change to the src directory
 
 `
 cd src/
