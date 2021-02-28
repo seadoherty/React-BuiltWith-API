@@ -4,7 +4,7 @@
 
 This is a React app that uses the free BuiltWith API to retrieve technology used by a domain
 
-To get started is a [FREE BuiltWith API key](https://builtwith.com/signup?B=https%3a%2f%2fapi.builtwith.com%2fdomain-api)
+To get started you'll need a [FREE BuiltWith API key](https://builtwith.com/signup?B=https%3a%2f%2fapi.builtwith.com%2fdomain-api)
 
 Create a .env file
 
